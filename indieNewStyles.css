@@ -1,0 +1,35 @@
+body {
+	background: #f4e9d8;
+	color: #5b4636;
+	font-family: 'Times New Roman', serif;
+	margin: 0;
+	padding: 0;
+	display: flex;
+	flex-direction:column;;
+	justify-content: center;
+	align-items: center;
+	height: 100vh;
+  }
+  
+  h1, h2 {
+	font-weight: bold;
+  }
+  
+  #toc {
+	list-style-type: none;
+	padding: 0;
+  }
+  
+  #eventDetails {
+	border: 2px solid #5b4636;
+	padding: 10px;
+	margin-top: 20px;
+	display: none;
+  }
+  
+  @media print {
+	@page {
+	  size: 11in 8.5in landscape;
+	  margin: 0;
+	}
+  }
