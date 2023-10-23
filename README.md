@@ -36,5 +36,6 @@ Stay updated with our latest stories and features by following us on our social 
 Support Us:
 
 As an independent newspaper, your support goes a long way in helping us continue our mission. Consider subscribing or donating to ensure we can keep bringing you the news that matters.
+![Description of the Image](assets/n4.png)
 
 © 2023 New Haven Indie Newspaper. All rights reserved.
