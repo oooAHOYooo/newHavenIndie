@@ -1,5 +1,8 @@
-# newHavenIndie
-a newspaper
+## newHavenIndie
+
+![Description of the Image](assets/n5.png)
+
+
 #About:
 
 New Haven Indie Newspaper is an independent journalistic platform dedicated to bringing freshness and local cute and happy news to the residents of New Haven, CT, and beyond. Founded in 2023, this newspaper is the brainchild of Ellen Martin and Alex Mundane, two passionate thrill seekers who believed in the power of local news to inform, inspire, and instigate positive change.
